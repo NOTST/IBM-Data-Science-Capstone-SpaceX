@@ -1,5 +1,5 @@
 # IBM-Data-Science-Capstone-SpaceX-
-**###The presentation in this project are summarized in *00 SpaceX Final Presentation.pdf***
+##The presentation in this project are summarized in *00 SpaceX Final Presentation.pdf*
 **This project aims to find the factor for successful rocket landing and the model to predict the result. The methodologies has shown below**
 **Data collection:** use the SpaceX REST API and Web Scraping
 **Data wrangling:** prepare data and create success/unsuccessful outcome variable 
